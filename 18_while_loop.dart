@@ -13,7 +13,8 @@ void main(List<String> args) {
   // 10 ke 0 / kebalik
   var angka = 10;
   while (angka >= 0) {
-    print('ini baris ke $angka');
+    print('ini bariske $angka');
     angka --;
   }
+  ///
 }
